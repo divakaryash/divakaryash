@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divakaryash
-- 👀 I’m interested in ML/Blockchaon Development
+- 👀 I’m interested in ML/Blockchain Development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
